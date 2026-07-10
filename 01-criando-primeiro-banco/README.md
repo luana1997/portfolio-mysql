@@ -17,7 +17,8 @@ A tabela **Pessoas** foi criada com sucesso.
 
 ## 💻 Script SQL
 
-```create database Cadastros_de_Pessoas;
+```sql
+create database Cadastros_de_Pessoas;
 use Cadastros_De_Pessoas;
 create table Pessoas (
 Nome varchar(30),
