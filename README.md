@@ -25,7 +25,5 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 
 ## 🛠 Tecnologias
 
-- MySQL
 - MySQL Workbench
-- Git
 - GitHub
