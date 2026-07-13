@@ -1,10 +1,9 @@
-#Aula 04 - Criando a primeira tabela
+# Aula 04 - Criando a primeira tabela
 
-##🎯 Objetivo
-
+## 🎯 Objetivo
 Aprender a criar tabelas no MySQL, definir tipos de dados, configurar chaves primárias e utilizar valores padrão.
 
-##📚 Comandos utilizados
+## 📚 Comandos utilizados
 CREATE DATABASE
 USE
 CREATE TABLE
@@ -17,7 +16,7 @@ DECIMAL
 DEFAULT
 CHARACTER SET
 
-##💻 Script SQL
+## 💻 Script SQL
 
 ```sql
 create database cadastro
@@ -44,3 +43,14 @@ primary key (id)
 - Chave primária configurada.
 - Identificador automático funcionando.
 - Valor padrão definido para a nacionalidade.
+
+  <img width="736" height="519" alt="Captura de tela 2026-07-13 133314" src="https://github.com/user-attachments/assets/a9729fe3-79ea-4296-8f0a-f48e8ddc34c1" />
+
+  ## 📖 O que aprendi
+  
+- Criar uma tabela no MySQL utilizando o comando `CREATE TABLE`.
+- Definir diferentes tipos de dados para cada coluna (`INT, VARCHAR, DATE, ENUM e DECIMAL`).
+- Configurar uma chave primária com `PRIMARY KEY`.
+- Utilizar `AUTO_INCREMENT` para gerar identificadores automaticamente.
+- Definir valores padrão com a cláusula `DEFAULT`.
+
