@@ -1,4 +1,4 @@
-# Aula 04 - Criando a primeira tabela
+# Aula 02 - Criando a primeira tabela
 
 ## 🎯 Objetivo
 Aprender a criar tabelas no MySQL, definir tipos de dados, configurar chaves primárias e utilizar valores padrão.
