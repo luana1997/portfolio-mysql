@@ -22,6 +22,8 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 
 ## :calendar: Tarefas
 - [x] Criação do primeiro banco
+- [x] Criação de tabela
+- [x] Inserindo dados na tabela
 
 ## 🛠 Tecnologias
 
