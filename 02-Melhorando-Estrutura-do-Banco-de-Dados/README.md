@@ -6,15 +6,15 @@ Aprender a criar tabelas no MySQL, definir tipos de dados, configurar chaves pri
 ## 📚 Comandos utilizados
 CREATE DATABASE
 USE
-CREATE TABLE
-PRIMARY KEY
-AUTO_INCREMENT
-VARCHAR
-DATE
-ENUM
-DECIMAL
-DEFAULT
-CHARACTER SET
+- CREATE TABLE
+- PRIMARY KEY
+- AUTO_INCREMENT
+- VARCHAR
+- DATE
+- ENUM
+- DECIMAL
+- DEFAULT
+- CHARACTER SET
 
 ## 💻 Script SQL
 
