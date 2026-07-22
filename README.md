@@ -23,7 +23,15 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 ## :calendar: Tarefas
 - [x] Criação do primeiro banco
 - [x] Criação de tabela
-- [x] Inserindo dados na tabela
+- [x] Configuração de chaves primárias (PRIMARY KEY)
+- [x] Utilização de AUTO_INCREMENT
+- [x] Definição de valores padrão (DEFAULT)
+- [x] Alteração da estrutura de tabelas (ALTER TABLE)
+- [x] Exclusão de tabelas (DROP TABLE)
+- [x] Inserção de dados (INSERT INTO)
+- [x] Realização de backup do banco de dados (mysqldump)
+- [x] Exclusão de banco de dados (DROP DATABASE)
+- [x] Restauração de banco de dados a partir de backup
 
 ## 🛠 Tecnologias
 
