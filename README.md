@@ -31,7 +31,11 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 - [x] Inserção de dados (INSERT INTO)
 - [x] Realização de backup do banco de dados (mysqldump)
 - [x] Exclusão de banco de dados (DROP DATABASE)
-- [x] Restauração de banco de dados a partir de backup
+- [x] Utilização do Console MySQ
+- [x] Utilização do phpMyAdmin
+- [x] Consulta de dados pelo Console
+- [x] Atualização de registros em diferentes ferramentas
+      
 
 ## 🛠 Tecnologias
 
