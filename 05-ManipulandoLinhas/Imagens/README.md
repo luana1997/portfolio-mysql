@@ -1,4 +1,5 @@
 ✅ Resultado da aula 05
+
 <img width="546" height="250" alt="Captura de tela 2026-07-21 190920" src="https://github.com/user-attachments/assets/31f17674-6102-4310-a54f-6c00b61d26bd" />
 <img width="508" height="329" alt="Captura de tela 2026-07-21 190813" src="https://github.com/user-attachments/assets/e7afa5fe-a1c2-4a65-b3d0-f163f4de1608" />
 <img width="672" height="339" alt="Captura de tela 2026-07-21 190612" src="https://github.com/user-attachments/assets/90268c0f-be48-4624-a4d5-197d9a4d80ea" />
