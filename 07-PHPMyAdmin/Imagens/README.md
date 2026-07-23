@@ -1,4 +1,5 @@
-✅ Resultado da aula 07
+✅ Resultados da aula 07
+
 <img width="1649" height="928" alt="Captura de tela 2026-07-23 132653" src="https://github.com/user-attachments/assets/e7e6e17b-45de-4218-bb9e-ed5fd8510cae" />
 <img width="1260" height="964" alt="Captura de tela 2026-07-23 132512" src="https://github.com/user-attachments/assets/7fcd17ca-31f8-48e1-a25d-a95171de6be7" />
 <img width="827" height="863" alt="Captura de tela 2026-07-23 131458" src="https://github.com/user-attachments/assets/177c76b5-1e17-4e0b-ad5f-07858d5e6e42" />
