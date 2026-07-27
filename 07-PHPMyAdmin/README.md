@@ -16,13 +16,13 @@ Aprender como acessar e manipular um banco de dados MySQL utilizando diferentes 
 - SET
 - WHERE 
 
-✅ Resultado
-Acessei o banco de dados pelo Console MySQL utilizando comandos SQL.
-Naveguei entre bancos de dados e tabelas sem depender de uma interface gráfica.
-Utilizei o phpMyAdmin para visualizar e editar registros de forma gráfica.
-Reforcei o uso dos comandos SQL já estudados anteriormente em diferentes ambientes.
+## ✅ Resultado
+- Acessei o banco de dados pelo Console MySQL utilizando comandos SQL.
+- Naveguei entre bancos de dados e tabelas sem depender de uma interface gráfica.
+- Utilizei o phpMyAdmin para visualizar e editar registros de forma gráfica.
+- Reforcei o uso dos comandos SQL já estudados anteriormente em diferentes ambientes.
 
-📚 O que eu aprendi
+## 📚 O que eu aprendi
 
 - O comando `SHOW DATABASES`; lista todos os bancos de dados existentes no servidor.
 - O comando `STATUS`; exibe informações da conexão atual, incluindo o banco de dados em uso.
