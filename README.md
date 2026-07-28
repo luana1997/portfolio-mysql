@@ -35,6 +35,12 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 - [x] Utilização do phpMyAdmin
 - [x] Consulta de dados pelo Console
 - [x] Atualização de registros em diferentes ferramentas
+- [x] Consulta de dados (SELECT)
+- [x] Filtragem de registros com WHERE
+- [x] Ordenação de resultados com ORDER BY
+- [x] Atualização de registros (UPDATE)
+- [x] Exclusão de registros (DELETE)
+- [x] Exclusão de registros em diferentes ferramentas
       
 
 ## 🛠 Tecnologias
