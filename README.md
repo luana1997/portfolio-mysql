@@ -13,7 +13,7 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 - ✅ Inserção de dados;
 - ✅ Atualização de dados;
 - ✅ Exclusão de dados;
-- :hourglass: Consultas SQL;
+- ✅ Consultas SQL;
 - :hourglass: JOIN;
 - :hourglass: GROUP BY;
 - :hourglass: Procedures;
