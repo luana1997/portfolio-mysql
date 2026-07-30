@@ -10,14 +10,14 @@ aprender a utilizar o comando SELECT para consultar dados armazenados em uma tab
 - SELECT * FROM tabela ORDER BY coluna;
 - SELECT * FROM tabela ORDER BY coluna DESC;
 
-- ## ✅ Resultado
+## ✅ Resultado
 
 - Consulta de todos os registros da tabela.
 - Exibição apenas das colunas desejadas.
 - Ordenação dos dados em ordem crescente e decrescente.
 - Utilização de apelidos para melhorar a leitura dos resultados.
 
-- ## 📚 O que eu aprendi
+## 📚 O que eu aprendi
   
 - O comando SELECT é utilizado para consultar informações em tabelas.
 - O uso de * retorna todas as colunas da tabela.
