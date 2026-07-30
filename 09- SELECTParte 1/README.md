@@ -1,6 +1,7 @@
 # Aula 09 - Select (Parte 1)
 
 ## 🎯 Objetivo
+
 aprender a utilizar o comando SELECT para consultar dados armazenados em uma tabela do MySQL. Apresentados os conceitos básicos de seleção de registros, escolha de colunas específicas, permitindo realizar consultas simples em bancos de dados.
 
 ## 📚 Comandos utilizados
