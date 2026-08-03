@@ -15,7 +15,7 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 - ✅ Exclusão de dados;
 - ✅ Consultas SQL;
 - :hourglass: JOIN;
-- :hourglass: GROUP BY;
+- ✅ GROUP BY;
 - :hourglass: Procedures;
 - :hourglass: Triggers; e
 - :hourglass: Views.
@@ -41,6 +41,11 @@ Consolidar meus conhecimentos em Banco de Dados Relacional utilizando MySQL e co
 - [x] Atualização de registros (UPDATE)
 - [x] Exclusão de registros (DELETE)
 - [x] Exclusão de registros em diferentes ferramentas
+- [x] Distinção de registros (DISTINCT)
+- [x] Funções de agregação (COUNT, SUM, AVG, MIN, MAX)
+- [x] Agrupamento de registros (GROUP BY)
+- [x] Filtros em agrupamentos (HAVING)
+- [x] Utilização de subconsultas (SELECT dentro de outro SELECT)
       
 
 ## 🛠 Tecnologias
