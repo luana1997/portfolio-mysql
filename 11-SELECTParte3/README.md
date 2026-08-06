@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
- Aprofundar o uso do comando SELECT, aprendendo a diferença entre DISTINCT e GROUP BY, além de utilizar funções de agregação para contar, calcular médias e analisar dados agrupados. Também pratiquei filtros em agrupamentos com HAVING e uso de subconsultas para criar consultas mais avançadas e dinâmicas.
+Aprofundar o uso do comando SELECT, aprendendo a diferença entre DISTINCT e GROUP BY, além de utilizar funções de agregação para contar, calcular médias e analisar dados agrupados. Também pratiquei filtros em agrupamentos com HAVING e uso de subconsultas para criar consultas mais avançadas e dinâmicas.
 
  ## 📚 Comandos utilizados
 - SELECT
